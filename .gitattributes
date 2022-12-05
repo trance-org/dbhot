@@ -1,0 +1,4 @@
+The[[:space:]]Economist[[:space:]]2022-09-24[[:space:]]Ebook.rar filter=lfs diff=lfs merge=lfs -text
+app.py filter=lfs diff=lfs merge=lfs -text
+ddz.py filter=lfs diff=lfs merge=lfs -text
+poker.py filter=lfs diff=lfs merge=lfs -text
